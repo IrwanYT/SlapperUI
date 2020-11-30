@@ -1,0 +1,12 @@
+name: HealthFeedUI
+main: HealthFeedUI\Main
+api: [3.0.0, 4.0.0]
+version: 1.0
+author: Irwan
+
+commands:
+  healthfeedui:
+    description: "§aHealth and Feed By Irwan!"
+    usage: /healthfeedui
+    aliases: ["healui", "feedui", "hfui"]
+    
